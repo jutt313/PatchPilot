@@ -1,0 +1,4 @@
+{
+  "test_command": "python3 -m pytest -q",
+  "timeout_s": 300
+}
