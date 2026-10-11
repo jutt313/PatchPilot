@@ -1,4 +1,4 @@
 {
-  "test_command": "python3 -m pytest -q",
+  "test_command": "python3 -m unittest discover -s tests -v",
   "timeout_s": 300
 }
